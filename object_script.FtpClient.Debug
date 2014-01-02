@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\client.o
+./debug\login.o
+./debug\ftpparser.o
+./debug\fileicon.o
+./debug\property.o
+./debug\moc_mainwindow.o
+./debug\moc_client.o
+./debug\moc_login.o
+./debug\moc_property.o
+./debug\qrc_images.o
+);
